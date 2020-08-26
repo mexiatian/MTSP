@@ -1,5 +1,3 @@
-# MTSP
-蜜桃视频，永不迷路！记住本站地址
 <div id="wiki-wrapper" class="page">
     <div class="d-flex flex-column flex-md-row gh-header">
       <h1 class="flex-auto min-width-0 mb-2 mb-md-0 mr-0 mr-md-2 gh-header-title">Home</h1>
